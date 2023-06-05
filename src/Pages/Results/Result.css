@@ -1,0 +1,13 @@
+.result {
+  font-family: "Karla", sans-serif !important;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 60vh;
+  text-align: center;
+}
+
+h3, p {
+  font-family: "Karla", sans-serif !important;
+}
